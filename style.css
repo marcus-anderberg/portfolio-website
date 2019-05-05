@@ -216,6 +216,10 @@ input.btn {
 hr.socket {
 	width: 100%;
 	border-top: .2rem solid #666b71;
+	
+}
+.socket {
+	text-align: center;
 }
 
 #contact {
